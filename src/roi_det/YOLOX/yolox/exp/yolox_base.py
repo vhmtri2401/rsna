@@ -10,7 +10,7 @@ import torch.distributed as dist
 import torch.nn as nn
 import cv2
 
-from .base_exp import BaseExp
+from yolox.base_exp import BaseExp
 
 
 class Exp(BaseExp):
