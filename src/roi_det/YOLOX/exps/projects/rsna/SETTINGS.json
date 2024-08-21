@@ -1,9 +1,9 @@
 {
-    "RAW_DATA_DIR": "./datasets/raw/",
-    "PROCESSED_DATA_DIR": "./datasets/processed/",
-    "MODEL_CHECKPOINT_DIR": "./checkpoints/",
-    "MODEL_FINAL_SELECTION_DIR": "./assets/reproduce/",
-    "SUBMISSION_DIR": "./submissions/",
-    "ASSETS_DIR": "./assets/",
-    "TEMP_DIR": "./tmp/"
-}   
+    "ASSETS_DIR": "/kaggle/working/assets/",
+    "MODEL_CHECKPOINT_DIR": "/kaggle/working/checkpoints/",
+    "MODEL_FINAL_SELECTION_DIR": "/kaggle/working/assets/reproduce/",
+    "PROCESSED_DATA_DIR": "/kaggle/working/datasets/processed/",
+    "RAW_DATA_DIR": "/kaggle/working/datasets/raw/",
+    "SUBMISSION_DIR": "/kaggle/working/submissions/",
+    "TEMP_DIR": "/kaggle/working/tmp/"
+}
