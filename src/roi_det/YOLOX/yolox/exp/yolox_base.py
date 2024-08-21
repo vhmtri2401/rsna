@@ -10,7 +10,7 @@ import torch.distributed as dist
 import torch.nn as nn
 import cv2
 
-from exp.base_exp import BaseExp
+from .base_exp import BaseExp
 
 
 class Exp(BaseExp):
